@@ -1,67 +1,35 @@
 {
   "main": {
-    "id": "4ba95bc2ec65ea84",
+    "id": "77832643184468d7",
     "type": "split",
     "children": [
       {
-        "id": "9498859e1c333a41",
+        "id": "5fc983683ba11798",
         "type": "tabs",
         "children": [
           {
-            "id": "0b90b06cdc31a3f0",
+            "id": "8774983b28acee50",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Materials/Sliding Surfaces.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54436fa1a247c332",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Materials/Metals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "362f52cb9651ae98",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "053913b7f9b268b1",
+    "id": "9e77d307da87ecc7",
     "type": "split",
     "children": [
       {
-        "id": "d090044bf1f0e5bc",
+        "id": "f2c3d265404d2639",
         "type": "tabs",
         "children": [
           {
-            "id": "9da6f060050bd8a4",
+            "id": "6d7cb57a44516022",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -71,7 +39,7 @@
             }
           },
           {
-            "id": "634a8ce08e3e793a",
+            "id": "3f2a4af54febff0e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -86,34 +54,34 @@
             }
           },
           {
-            "id": "d98f860bcb1cfbef",
+            "id": "de9acceb944970ea",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "62ce27e5dd122106",
+    "id": "b680d8c3ca9aea38",
     "type": "split",
     "children": [
       {
-        "id": "5acbfeb90abe5220",
+        "id": "dba5ed4fa0328f00",
         "type": "tabs",
         "children": [
           {
-            "id": "59653c2c236118a9",
+            "id": "1c7958e810beeabc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,19 +93,18 @@
             }
           },
           {
-            "id": "e1d16d5ca8458614",
+            "id": "6b4d741c343a034e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "5dd0f9e3fe3ee021",
+            "id": "fbd22a79214dbe98",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -148,13 +115,11 @@
             }
           },
           {
-            "id": "f88b5cdca8f25c22",
+            "id": "fd53e3170671252c",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -174,16 +139,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "362f52cb9651ae98",
+  "active": "8774983b28acee50",
   "lastOpenFiles": [
     "Materials/Sliding Surfaces.md",
-    "Untitled.canvas",
-    "Materials/Wood.md",
-    "Materials/Metals.md",
-    "Engineering/Galling.md",
-    "IOT/niet dat.md",
-    "Engineering",
-    "IOT/Networking.md",
-    "IOT"
+    "Welcome.md",
+    "Materials"
   ]
 }

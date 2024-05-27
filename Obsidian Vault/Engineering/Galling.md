@@ -1,0 +1,1 @@
+**Galling** is a form of wear caused by adhesion between sliding surfaces.
